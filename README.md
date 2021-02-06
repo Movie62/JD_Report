@@ -22,12 +22,6 @@ Ace permission Based
 ### Requirements
 - FiveM FXServer
 
-### V1.0.0
-- All log channel
-- Log to seperate channels
-- Log from server or client side
-- Easy changeble Avatar and Username
-
 # Download & Installation
 
 1. Download the files
