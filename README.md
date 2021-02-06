@@ -13,11 +13,11 @@ Ace permission Based
 </h5>
 
 ### Commands
-/report                     - Report Command
-/help                       - Support Command
-/s                          - Staff chat
-/r [id] [Message]           - Send message to specific user
-/pcd                        - Request priority Cooldown
+/report                     - Report Command<br>
+/help                       - Support Command<br>
+/s                          - Staff chat<br>
+/r [id] [Message]           - Send message to specific user<br>
+/pcd                        - Request priority Cooldown<br>
 
 ### Requirements
 - FiveM FXServer
